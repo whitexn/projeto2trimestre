@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+
+
+}
+*{
+    max-width: 800px;
+    max-height: 100px;
+}
