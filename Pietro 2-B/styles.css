@@ -1,9 +1,16 @@
 body{
-    background-color: aqua;
+    background-image: url("logo-flores-do-campo.jpg");
 
 
 }
 *{
     max-width: 800px;
     max-height: 100px;
+}
+
+.sessao1{
+
+color: aqua;
+
+
 }
