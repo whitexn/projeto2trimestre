@@ -1,16 +1,9 @@
-body{
-    background-image: url("logo-flores-do-campo.jpg");
-
-
-}
-*{
-    max-width: 800px;
-    max-height: 100px;
+:root {
+    --branco-principal: #FFFFFF;
+    --cor-de-fundo: #00030c;
 }
 
-.sessao1{
-
-color: aqua;
-
-
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
 }
